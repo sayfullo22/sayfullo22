@@ -28,7 +28,7 @@ Expected Graduation: 2028
 
 ## Experience
 
-* Research Intern — Max Planck Institute
+* Research Intern — Max Planck Institute of Dynamics and Self-Organization
 * Research Intern — Technical University of Munich
 * Research Intern — Kyoto University
 
@@ -62,7 +62,7 @@ Developed a flood susceptibility assessment framework using geospatial and hydro
 ## Languages
 
 * Uzbek (Native)
-* Japanese (Native)
+* Japanese (Fluent)
 * English (Fluent)
 * Russian (Fluent)
 * Tajik (Fluent)
