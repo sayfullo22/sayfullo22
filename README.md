@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I am Sayfullo 👋
 
-<!--
-**sayfullo22/sayfullo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Civil and Environmental Engineering student at Princeton University (Class of 2028)
 
-Here are some ideas to get you started:
+🌍 Interested in:
+- Water Resources Engineering
+- Hydraulics and Hydrology
+- Sustainable Infrastructure
+- Environmental Modeling
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently learning:
+- Hydraulic Engineering
+- GIS and Remote Sensing
+- Python for Engineering Applications
+- German 🇩🇪
+
+## About Me
+
+- Born in Bukhara, Uzbekistan
+- Grew up in Japan and Uzbekistan
+- Fluent in Uzbek, Japanese, and English
+- Interested in studying and working in Europe after graduation
+
+## Skills
+
+### Engineering
+- AutoCAD
+- Civil 3D
+- ArcGIS
+- HEC-RAS
+- HEC-HMS
+
+### Programming
+- Python
+- MATLAB
+- SQL
+
+## Projects
+
+### Flood Risk Analysis
+Analyzed flood hazards using GIS and hydrologic modeling tools.
+
+### Water Distribution Network Design
+Designed and evaluated municipal water supply systems.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your.email@example.com
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
