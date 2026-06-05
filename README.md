@@ -1,52 +1,73 @@
-# Hi, I am Sayfullo 👋
+# Sayfullo Saidov
 
-🎓 Civil and Environmental Engineering student at Princeton University (Class of 2028)
+Civil and Environmental Engineering Student | Princeton University
 
-🌍 Interested in:
-- Water Resources Engineering
-- Hydraulics and Hydrology
-- Sustainable Infrastructure
-- Environmental Modeling
-- Data Analysis
+## About
 
-📚 Currently learning:
-- Hydraulic Engineering
-- GIS and Remote Sensing
-- Python for Engineering Applications
+I am an undergraduate student in Civil and Environmental Engineering at Princeton University with interests in water resources engineering, hydrology, hydraulics, geospatial analysis, and sustainable infrastructure.
 
-## About Me
+My research experience includes work at the Max Planck Institute, the Technical University of Munich, and Kyoto University. I am interested in applying computational and data-driven methods to water and environmental systems.
 
-- Born in Bukhara, Uzbekistan
-- Grew up in Japan and Uzbekistan
-- Live in Nagoya Metropolitan Area, Japan
-- Study at Princeton University
-- Interned in Max Planck Institute, Technical University of Munich, Kyoto University
-- Fluent in Uzbek, Japanese, Tajik, Russian, and English
+## Research Interests
 
-## Skills
+* Water Resources Engineering
+* Hydrology and Hydraulics
+* Flood Risk Assessment
+* Environmental Modeling
+* Geographic Information Systems (GIS)
+* Remote Sensing
+* Sustainable Infrastructure
+* Climate Resilience
 
-### Engineering
-- AutoCAD
-- Civil 3D
-- ArcGIS
-- HEC-RAS
-- HEC-HMS
-- SWMM
-- Google Earth Engine
-- Python
+## Education
 
-## Projects
+**Princeton University**
+Bachelor of Science in Engineering (B.S.E.)
+Civil and Environmental Engineering
+Expected Graduation: 2028
 
-### Flood Susceptibility Map
-Analyzed flood hazards using GIS and hydrologic modeling tools for urban Tashkent.
+## Experience
 
+* Research Intern — Max Planck Institute
+* Research Intern — Technical University of Munich
+* Research Intern — Kyoto University
 
+## Technical Skills
 
-## Connect With Me
+### Engineering & Modeling
 
-- LinkedIn: https://linkedin.com/in/sayfullo-saidov
-- Email: saidovsayfullo2006@gmail.com
+* HEC-RAS
+* HEC-HMS
+* EPA SWMM
+* AutoCAD
+* Civil 3D
 
----
+### Geospatial Analysis
 
-⭐ Feel free to explore my repositories and connect with me!
+* ArcGIS Pro
+* Google Earth Engine
+* Remote Sensing
+* Spatial Data Analysis
+
+### Programming
+
+* Python
+
+## Featured Project
+
+### Flood Susceptibility Mapping for Urban Tashkent
+
+Developed a flood susceptibility assessment framework using geospatial and hydrologic analysis techniques to identify areas of elevated flood risk in the Tashkent metropolitan region.
+
+## Languages
+
+* Uzbek (Native)
+* Japanese (Native)
+* English (Fluent)
+* Russian (Fluent)
+* Tajik (Fluent)
+
+## Contact
+
+* LinkedIn: linkedin.com/in/sayfullo-saidov
+* Email: [saidovsayfullo2006@gmail.com](mailto:saidovsayfullo2006@gmail.com)
