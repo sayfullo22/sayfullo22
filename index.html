@@ -1,210 +1,278 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sayfullo | Personal Website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sayfullo Saidov | Resume</title>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<style>
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 0 20px;
+    color: #222;
+    line-height: 1.5;
+}
 
-        body {
-            font-family: Arial, sans-serif;
-            background: #f5f7fa;
-            color: #222;
-            line-height: 1.6;
-        }
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
 
-        header {
-            background: #0f172a;
-            color: white;
-            text-align: center;
-            padding: 80px 20px;
-        }
+h1 {
+    margin-bottom: 5px;
+    font-size: 2.4rem;
+}
 
-        header h1 {
-            font-size: 3rem;
-        }
+.contact {
+    color: #555;
+}
 
-        header p {
-            margin-top: 10px;
-            opacity: 0.85;
-        }
+.contact a {
+    color: #0066cc;
+    text-decoration: none;
+}
 
-        nav {
-            background: white;
-            padding: 15px;
-            text-align: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-            position: sticky;
-            top: 0;
-        }
+section {
+    margin-top: 35px;
+}
 
-        nav a {
-            text-decoration: none;
-            color: #0f172a;
-            margin: 0 15px;
-            font-weight: bold;
-        }
+h2 {
+    border-bottom: 2px solid #222;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
 
-        section {
-            max-width: 900px;
-            margin: auto;
-            padding: 60px 20px;
-        }
+.entry {
+    margin-bottom: 25px;
+}
 
-        h2 {
-            margin-bottom: 20px;
-            color: #0f172a;
-        }
+.entry-header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 
-        .card {
-            background: white;
-            padding: 25px;
-            border-radius: 12px;
-            margin-top: 15px;
-            box-shadow: 0 3px 12px rgba(0,0,0,0.08);
-        }
+.position {
+    font-weight: bold;
+    font-size: 1.05rem;
+}
 
-        ul {
-            margin-left: 20px;
-        }
+.date {
+    color: #555;
+}
 
-        .projects {
-            display: grid;
-            grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
-            gap: 20px;
-        }
+.organization {
+    font-style: italic;
+    color: #555;
+}
 
-        footer {
-            background: #0f172a;
-            color: white;
-            text-align: center;
-            padding: 30px;
-            margin-top: 40px;
-        }
+ul {
+    margin-top: 8px;
+}
 
-        .btn {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 12px 20px;
-            background: #2563eb;
-            color: white;
-            text-decoration: none;
-            border-radius: 8px;
-        }
+li {
+    margin-bottom: 8px;
+}
 
-        .btn:hover {
-            background: #1d4ed8;
-        }
-    </style>
+.skills-category {
+    margin-bottom: 12px;
+}
+
+.skills-category strong {
+    display: inline-block;
+    min-width: 220px;
+}
+</style>
 </head>
+
 <body>
 
 <header>
-    <h1>Sayfullo</h1>
-    <p>Civil & Environmental Engineering Student | Princeton University</p>
+    <h1>Sayfullo Saidov</h1>
 
-    <a href="#contact" class="btn">Contact Me</a>
+    <div class="contact">
+        +1 (609) 608-5455 |
+        <a href="mailto:sayfullo.saidov@princeton.edu">
+            sayfullo.saidov@princeton.edu
+        </a>
+        |
+        <a href="https://linkedin.com/in/sayfullo-saidov" target="_blank">
+            linkedin.com/in/sayfullo-saidov
+        </a>
+        |
+        Princeton, NJ
+    </div>
 </header>
 
-<nav>
-    <a href="#about">About</a>
-    <a href="#education">Education</a>
-    <a href="#projects">Projects</a>
-    <a href="#skills">Skills</a>
-    <a href="#contact">Contact</a>
-</nav>
-
-<section id="about">
-    <h2>About Me</h2>
-
-    <div class="card">
-        <p>
-            I am a Civil and Environmental Engineering student at Princeton
-            University with interests in water engineering, hydraulics,
-            hydrology, and sustainable infrastructure.
-
-            I grew up across Japan and Uzbekistan and enjoy learning languages,
-            exploring cultures, and studying how engineering can improve
-            communities.
-        </p>
-    </div>
-</section>
-
-<section id="education">
+<section>
     <h2>Education</h2>
 
-    <div class="card">
-        <h3>Princeton University</h3>
-        <p>B.S.E. in Civil and Environmental Engineering</p>
-        <p>Class of 2028</p>
-    </div>
-</section>
-
-<section id="projects">
-    <h2>Projects</h2>
-
-    <div class="projects">
-
-        <div class="card">
-            <h3>Flood Risk Analysis</h3>
-            <p>
-                Studied hydrologic data and flood prediction methods
-                for urban watersheds.
-            </p>
+    <div class="entry">
+        <div class="entry-header">
+            <div class="position">Princeton University</div>
+            <div class="date">Expected May 2028</div>
         </div>
 
-        <div class="card">
-            <h3>Water Infrastructure</h3>
-            <p>
-                Researching sustainable water supply and treatment systems.
-            </p>
+        <div class="organization">
+            B.S.E. Civil and Environmental Engineering · Princeton, NJ
         </div>
 
-        <div class="card">
-            <h3>Environmental Modeling</h3>
-            <p>
-                Applying engineering tools to analyze environmental systems.
-            </p>
-        </div>
-
-    </div>
-</section>
-
-<section id="skills">
-    <h2>Skills</h2>
-
-    <div class="card">
         <ul>
-            <li>Hydraulics</li>
-            <li>Hydrology</li>
-            <li>Python</li>
-            <li>MATLAB</li>
-            <li>GIS</li>
-            <li>English, Japanese, Uzbek</li>
-            <li>German (learning)</li>
+            <li>
+                Relevant and Planned Coursework:
+                Hydrology, Urban Water Management,
+                Environmental Fluid Mechanics,
+                Risk Analysis
+            </li>
         </ul>
     </div>
 </section>
 
-<section id="contact">
-    <h2>Contact</h2>
+<section>
+    <h2>Research and Engineering Experience</h2>
 
-    <div class="card">
-        <p>Email: -</p>
-        <p>LinkedIn: linkedin.com/in/sayfullo-saidov</p>
-        <p>GitHub: github.com/sayfullo22</p>
+    <div class="entry">
+        <div class="entry-header">
+            <div class="position">Stormwater Systems Engineering Intern</div>
+            <div class="date">Sep 2024 – Present</div>
+        </div>
+
+        <div class="organization">
+            Princeton University – Office of Sustainability · Princeton, NJ
+        </div>
+
+        <ul>
+            <li>
+                Built EPA SWMM models of campus urban drainage networks and
+                analyzed monitoring data to simulate runoff routing,
+                hydraulic behavior, and stormwater retention during
+                extreme precipitation events.
+            </li>
+
+            <li>
+                Deployed hydrologic monitoring systems across 10 stormwater BMPs
+                to evaluate runoff attenuation, infiltration performance,
+                and water quality response in urban catchments.
+            </li>
+
+            <li>
+                Applied GIS and AutoCAD to delineate urban catchments,
+                characterize subsurface drainage infrastructure,
+                and support assessment of green stormwater
+                infrastructure systems.
+            </li>
+        </ul>
+    </div>
+
+    <div class="entry">
+        <div class="entry-header">
+            <div class="position">Urban Flood Hydrology Modeling Intern</div>
+            <div class="date">May 2026 – Jun 2026</div>
+        </div>
+
+        <div class="organization">
+            Kyoto University – Disaster Prevention Research Institute · Kyoto, Japan
+        </div>
+
+        <ul>
+            <li>
+                Developed a random forest-based urban flood susceptibility model
+                for Tashkent, Uzbekistan by integrating DEM, rainfall intensity,
+                and land-use datasets using Google Earth Engine and Python.
+            </li>
+
+            <li>
+                Utilized QGIS and geospatial datasets to delineate and compare
+                river networks and watershed characteristics across the Chirchiq,
+                Raritan, and Kiso River basins.
+            </li>
+
+            <li>
+                Evaluated urban flood mitigation strategies across Kyoto and
+                Princeton watersheds, including detention basins, levees,
+                and distributed green stormwater infrastructure under
+                extreme rainfall conditions.
+            </li>
+        </ul>
+    </div>
+
+    <div class="entry">
+        <div class="entry-header">
+            <div class="position">
+                Environmental Fluid Dynamics Research Intern
+            </div>
+            <div class="date">May 2025 – Jul 2025</div>
+        </div>
+
+        <div class="organization">
+            Max Planck Institute for Dynamics and Self-Organization · Göttingen, Germany
+        </div>
+
+        <ul>
+            <li>
+                Assisted in developing a Lagrangian Particle Tracking (LPT)
+                system for field experiments investigating turbulent
+                atmospheric wake flows behind wind turbines.
+            </li>
+
+            <li>
+                Deployed and monitored instrumented balloon tracers to measure
+                velocity fluctuations and turbulent transport processes
+                in the atmospheric boundary layer.
+            </li>
+
+            <li>
+                Processed atmospheric flow trajectory data to investigate
+                turbulent transport and environmental fluid dynamics
+                in high-Reynolds-number flows.
+            </li>
+        </ul>
     </div>
 </section>
 
-<footer>
-    <p>© 2026 Sayfullo. All rights reserved.</p>
-</footer>
+<section>
+    <h2>Technical Skills</h2>
+
+    <div class="skills-category">
+        <strong>Hydrology & Water Systems:</strong>
+        Urban hydrology, stormwater systems, watershed analysis,
+        flood susceptibility modeling, green stormwater infrastructure
+        assessment, hydrologic monitoring
+    </div>
+
+    <div class="skills-category">
+        <strong>Modeling & Simulation:</strong>
+        EPA SWMM, HEC-RAS (basic), HEC-HMS (basic),
+        rainfall-runoff analysis, hydrologic data analysis,
+        machine learning applications
+    </div>
+
+    <div class="skills-category">
+        <strong>Geospatial & Programming:</strong>
+        Python (NumPy, pandas, matplotlib, scikit-learn, PyTorch),
+        QGIS, ArcGIS Pro, Google Earth Engine,
+        AutoCAD, Excel, Git
+    </div>
+
+    <div class="skills-category">
+        <strong>Field & Monitoring:</strong>
+        Water-level monitoring, flow measurement,
+        weir installation, environmental sensing,
+        infrastructure inspection, data logger programming
+    </div>
+
+    <div class="skills-category">
+        <strong>Languages:</strong>
+        Uzbek, Tajik (native);
+        Japanese, English (fluent);
+        Russian (advanced);
+        German (basic)
+    </div>
+</section>
 
 </body>
 </html>
