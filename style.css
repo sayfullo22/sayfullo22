@@ -184,33 +184,3 @@ footer {
     letter-spacing: 0.5px;
 }
 
-.entry {
-    margin-bottom: 28px;
-}
-
-.entry a {
-    display: block;
-    font-size: 16px;
-    color: #1f1f1f;
-    text-decoration: none;
-    border-bottom: none;
-}
-
-.entry a:hover {
-    text-decoration: underline;
-}
-
-.entry span {
-    display: block;
-    font-size: 13px;
-    color: #777;
-    margin-top: 4px;
-    margin-bottom: 6px;
-}
-
-.entry p {
-    margin: 0;
-    font-size: 14px;
-    color: #333;
-    line-height: 1.6;
-}
