@@ -1,60 +1,84 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog | Sayfullo</title>
+<link rel="stylesheet" href="style.css">
 
-    <link rel="stylesheet" href="style.css">
-</head>
+<!-- NAV -->
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="index.html" class="logo">Sayfullo</a>
 
-<body>
-
-    <!-- NAV -->
-    <nav class="nav">
-        <div class="nav-inner">
-            <a href="index.html" class="logo">Sayfullo</a>
-
-            <div class="nav-links">
-                <a href="index.html">Home</a>
-                <a href="projects.html">Projects</a>
-                <a href="blog.html">Blog</a>
-            </div>
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="projects.html">Projects</a>
+            <a href="blog.html">Blog</a>
         </div>
-    </nav>
+    </div>
+</nav>
 
-    <!-- HEADER -->
-    <header>
-        <h1>Blog</h1>
+<!-- HEADER -->
+<header>
+    <h1>Blog</h1>
+    <p>
+        Where engineering meets history, geography, and the long memory of civilizations.
+    </p>
+</header>
+
+<hr>
+
+<!-- ARCHIVE -->
+
+<section class="card">
+
+    <!-- CATEGORY 1 -->
+    <h2>Civilizations & Water</h2>
+
+    <div class="item">
+        <div class="item-header">
+            <strong>
+                <a href="posts/tigris-euphrates-water-systems.html">
+                    The Tigris–Euphrates Water System
+                </a>
+            </strong>
+            <span>History / Hydrology</span>
+        </div>
+
         <p>
-           Where engineering meets history, geography, and the long memory of civilizations. 
+            How geography and hydrology shaped one of the earliest civilizations in human history.
         </p>
-    </header>
+    </div>
 
-    <hr>
+    <!-- CATEGORY 2 -->
+    <h2>Infrastructure & Systems</h2>
 
-    <!-- BLOG POSTS LIST -->
-
-    <section class="card">
-
-        <div class="item">
-            <div class="item-header">
-                <strong><a href="posts/tigris-euphrates-water-systems.html">The Tigris–Euphrates Water System</a></strong>
-                <span>Hydraulics</span>
-            </div>
-
-            <p>
-                How geography and hydrology shaped one of the earliest civilizations in human history.
-            </p>
+    <div class="item">
+        <div class="item-header">
+            <strong>
+                <a href="#">
+                    Placeholder: Urban Drainage and Modern Cities
+                </a>
+            </strong>
+            <span>Engineering</span>
         </div>
 
-        
+        <p>
+            How modern cities encode hydrologic decisions through infrastructure design.
+        </p>
+    </div>
 
-        
+    <!-- CATEGORY 3 -->
+    <h2>Geography & Time</h2>
 
-      
+    <div class="item">
+        <div class="item-header">
+            <strong>
+                <a href="#">
+                    Placeholder: Rivers as Historical Boundaries
+                </a>
+            </strong>
+            <span>Geography</span>
+        </div>
 
-    </section>
+        <p>
+            How natural geography shapes political and cultural development over centuries.
+        </p>
+    </div>
 
-</body>
-</html>
+</section>
