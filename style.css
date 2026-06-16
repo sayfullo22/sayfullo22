@@ -113,3 +113,40 @@ footer {
     font-size: 14px;
     color: #777;
 }
+
+.nav {
+    position: sticky;
+    top: 0;
+    background-color: #f7f5f0;
+    border-bottom: 1px solid #e6e1d8;
+    padding: 14px 0;
+    z-index: 100;
+}
+
+.nav-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 24px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    font-weight: 500;
+    border-bottom: none;
+}
+
+.nav-links a {
+    margin-left: 18px;
+    font-size: 14px;
+    color: #333;
+    border-bottom: 1px solid transparent;
+}
+
+.nav-links a:hover {
+    border-bottom: 1px solid #333;
+}
