@@ -119,32 +119,45 @@ footer {
     top: 0;
     background-color: #f7f5f0;
     border-bottom: 1px solid #e6e1d8;
-    padding: 14px 0;
     z-index: 100;
 }
 
 .nav-inner {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
-    padding: 0 24px;
+    padding: 18px 24px;
 
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    gap: 40px;
 }
 
 .logo {
+    position: absolute;
+    left: 24px;
+
     font-family: Georgia, serif;
     font-size: 16px;
     font-weight: 500;
+    letter-spacing: 0.5px;
+
     border-bottom: none;
+    color: #1f1f1f;
+}
+
+.nav-links {
+    display: flex;
+    gap: 28px;
 }
 
 .nav-links a {
-    margin-left: 18px;
     font-size: 14px;
     color: #333;
+    text-decoration: none;
     border-bottom: 1px solid transparent;
+    padding-bottom: 2px;
+    transition: border 0.2s ease;
 }
 
 .nav-links a:hover {
