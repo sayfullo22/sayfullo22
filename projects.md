@@ -3,11 +3,7 @@ layout: default
 title: Blog
 ---
 
-[Home]({{ '/' | relative_url }}) |
-[Projects]({{ '/projects/' | relative_url }}) |
-[Blog]({{ '/blog/' | relative_url }})
 
----
 
 # Projects
 
