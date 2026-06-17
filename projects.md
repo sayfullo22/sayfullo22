@@ -1,8 +1,7 @@
 ---
-
 layout: default
-title: Projects
----------------
+title: Home
+---
 
 # Projects
 
