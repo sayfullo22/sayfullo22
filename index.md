@@ -26,7 +26,7 @@ Focus: hydrology, hydraulics, and environmental fluid mechanics.
 ### Stormwater Systems Engineering Intern — Princeton University  
 *Sep 2024 – Present*
 
-EPA SWMM modeling of urban drainage systems and stormwater retention.  
+EPA SWMM & Python modeling of urban drainage systems and stormwater retention.  
 GIS-based catchment analysis and hydrologic monitoring of BMP infrastructure.
 
 ---
@@ -34,7 +34,7 @@ GIS-based catchment analysis and hydrologic monitoring of BMP infrastructure.
 ### Urban Flood Hydrology Modeling Intern — Kyoto University  
 *May 2026 – Jun 2026*
 
-Machine learning-based flood susceptibility modeling using Python and Google Earth Engine.  
+Machine learning-based flood susceptibility modeling for Tashkent using Python and Google Earth Engine.  
 Comparative watershed analysis across Uzbekistan, Japan, and the United States.
 
 ---
@@ -43,7 +43,7 @@ Comparative watershed analysis across Uzbekistan, Japan, and the United States.
 *May 2025 – Jul 2025*
 
 Lagrangian particle tracking and experimental study of atmospheric turbulence.  
-Flow trajectory analysis for environmental fluid dynamics research.
+Flow trajectory analysis for environmental fluid dynamics research using helium balloons.
 
 ---
 
