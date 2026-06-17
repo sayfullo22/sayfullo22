@@ -1,8 +1,7 @@
 ---
-
 layout: default
-title: Blog
------------
+title: Home
+---
 
 # Writings
 
