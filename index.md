@@ -4,9 +4,8 @@ title: Blog
 ---
 
 [Home]({{ '/' | relative_url }}) |
-[Projects]({{ '/projects.html' | relative_url }}) |
-[Blog]({{ '/blog.html' | relative_url }})
-
+[Projects]({{ '/projects/' | relative_url }}) |
+[Blog]({{ '/blog/' | relative_url }})
 ---
 
 # Sayfullo Saidov
