@@ -4,8 +4,8 @@ title: Blog
 ---
 
 [Home]({{ '/' | relative_url }}) |
-[Projects]({{ '/projects.html' | relative_url }}) |
-[Blog]({{ '/blog.html' | relative_url }})
+[Projects]({{ '/projects/' | relative_url }}) |
+[Blog]({{ '/blog/' | relative_url }})
 
 ---
 
@@ -13,7 +13,7 @@ title: Blog
 
 Thoughts on hydrology, water systems, environmental engineering, geography, and history.
 
-{% raw %}{% for post in site.posts %}
+{% for post in site.posts %}
 
 ## [{{ post.title }}]({{ post.url | relative_url }})
 
@@ -23,4 +23,5 @@ Thoughts on hydrology, water systems, environmental engineering, geography, and 
 
 ---
 
-{% endfor %}{% endraw %}
+{% endfor %}
+
