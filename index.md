@@ -14,8 +14,16 @@ I am interested in the engineering of rivers, floods, and water infrastructure, 
 
 ---
 
+## Education
+
 **Princeton University — B.S.E. Civil and Environmental Engineering**  
-*Class of 2028*
+*2024 - 2028*
+
+**Technical University of Munich — Chair of Agricultural Systems Engineering**  
+*Summer 2026*
+
+**University of Auckland — BE Civil and Environmental Engineering**  
+*Incoming Spring 2027*
 
 ---
 
@@ -26,6 +34,13 @@ I am interested in the engineering of rivers, floods, and water infrastructure, 
 Urban drainage modeling using EPA SWMM and GIS-based hydrologic analysis.
 
 ---
+
+### Environmental Engineering Intern — Technical University of Munich  
+*July 2026 – August 2026*  
+Energy and Water Systems modeling for Cow Barns.
+
+---
+
 
 ### Urban Flood Hydrology Modeling Intern — Kyoto University  
 *May 2026 – Jun 2026*  
