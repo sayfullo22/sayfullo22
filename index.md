@@ -39,7 +39,7 @@ Comparative watershed analysis across Uzbekistan, Japan, and the United States.
 
 ---
 
-### Environmental Fluid Dynamics Research Intern — Max Planck Institute  
+### Environmental Fluid Dynamics Research Intern — Max Planck Institute for Dynamics and Self-Organization  
 *May 2025 – Jul 2025*
 
 Lagrangian particle tracking and experimental study of atmospheric turbulence.  
