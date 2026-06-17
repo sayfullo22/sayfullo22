@@ -1,6 +1,12 @@
 ---
 layout: default
-title: Home
+title: Blog
+---
+
+[Home]({{ '/' | relative_url }}) |
+[Projects]({{ '/projects.html' | relative_url }}) |
+[Blog]({{ '/blog.html' | relative_url }})
+
 ---
 
 # Writings
