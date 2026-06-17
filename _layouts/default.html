@@ -1,16 +1,31 @@
-<!-- _layouts/default.html -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <link rel="stylesheet" href="/css/style.css">
-  <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
 </head>
 <body>
-  <nav>
-    ...
-  </nav>
 
-  {{ content }}
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="{{ '/' | relative_url }}" class="logo">Sayfullo</a>
+
+        <div class="nav-links">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/projects/' | relative_url }}">Projects</a>
+            <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        </div>
+    </div>
+</nav>
+
+<main>
+    {{ content }}
+</main>
+
+<footer>
+    <p>© 2026 Sayfullo</p>
+</footer>
 
 </body>
 </html>
