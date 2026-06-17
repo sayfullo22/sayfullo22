@@ -48,7 +48,7 @@ Machine learning-based flood susceptibility modeling and comparative watershed a
 
 ---
 
-### Environmental Fluid Dynamics Research Intern — Max Planck Institute  
+### Environmental Fluid Dynamics Research Intern — Max Planck Institute for Dynamics and Self-Organization  
 *May 2025 – Jul 2025*  
 Experimental and computational study of atmospheric turbulence and particle transport.
 
