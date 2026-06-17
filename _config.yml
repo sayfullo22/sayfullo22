@@ -1,9 +1,6 @@
-title: My Personal Website
-description: Welcome to my portfolio and blog.
+title: Sayfullo Saidov
+description: Hydrology, Water Systems, and Environmental Engineering
 
-# This activates the remote theme plugin on GitHub Pages
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-cayman
 
-# Pick a theme (We will use the sleek, minimal 'Cayman' theme as a starter)
-remote_theme: pages-themes/cayman@v0.2.0
+markdown: kramdown
