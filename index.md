@@ -14,8 +14,8 @@ I am interested in the engineering of rivers, floods, and water infrastructure, 
 
 ---
 
-**Civil Engineering student at Princeton University (Class of 2028)**  
-Focus: hydrology, hydraulics, and environmental fluid mechanics.
+**Princeton University — B.S.E. Civil and Environmental Engineering**  
+*Class of 2028*
 
 ---
 
