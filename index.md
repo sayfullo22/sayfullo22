@@ -6,7 +6,7 @@ title: Home
 
 # Sayfullo Saidov
 
-I study water systems and the landscapes they shape. My interests range from hydrology and environmental engineering to geography, history, and the long relationship between rivers, infrastructure, and civilization.
+I am interested in the engineering of rivers, floods, and water infrastructure, and in how these systems have shaped cities, economies, and civilizations throughout history.
 
 [Email](mailto:ss4113@princeton.edu) |
 [GitHub](https://github.com/sayfullo22) |
