@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+[Home]({{ '/' | relative_url }}) |
+[Projects]({{ '/projects.html' | relative_url }}) |
+[Blog]({{ '/blog.html' | relative_url }})
+
+---
+
 # Sayfullo Saidov
 
 I am a Civil and Environmental Engineering student at Princeton University with interests in hydrology, hydraulic systems, urban water management, environmental fluid mechanics, and resilient infrastructure.
