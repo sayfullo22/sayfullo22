@@ -1,0 +1,9 @@
+title: My Personal Website
+description: Welcome to my portfolio and blog.
+
+# This activates the remote theme plugin on GitHub Pages
+plugins:
+  - jekyll-remote-theme
+
+# Pick a theme (We will use the sleek, minimal 'Cayman' theme as a starter)
+remote_theme: pages-themes/cayman@v0.2.0
