@@ -7,7 +7,7 @@ permalink: /blog/
 
 # Writings
 
-Thoughts on hydrology, water systems, environmental engineering, geography, and history.
+When engineering meets history, geography, and the long memory of civilizations.
 
 {% for post in site.posts %}
 
