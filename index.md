@@ -6,7 +6,7 @@ title: Home
 
 # Sayfullo Saidov
 
-I am a Civil and Environmental Engineering student at Princeton University with interests in hydrology, hydraulic systems, urban water management, environmental fluid mechanics, and resilient infrastructure.
+I study water systems and the landscapes they shape. My interests range from hydrology and environmental engineering to geography, history, and the long relationship between rivers, infrastructure, and civilization.
 
 [Email](mailto:ss4113@princeton.edu) |
 [GitHub](https://github.com/sayfullo22) |
