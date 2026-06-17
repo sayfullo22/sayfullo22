@@ -16,58 +16,41 @@ I am interested in the engineering of rivers, floods, and water infrastructure, 
 
 ## Education
 
-### Princeton University — Class of 2028
-
-**B.S.E. in Civil and Environmental Engineering**
-
-Relevant coursework includes environmental engineering, hydrology, and environmental fluid mechanics.
+Princeton University — B.S.E. Civil and Environmental Engineering (Class of 2028)  
+Focus: hydrology, hydraulics, and environmental fluid mechanics.
 
 ---
 
 ## Experience
 
-### Stormwater Systems Engineering Intern
-
+### Stormwater Systems Engineering Intern — Princeton University  
 *Sep 2024 – Present*
 
-Princeton University — Office of Sustainability
+EPA SWMM modeling of urban drainage systems and stormwater retention.  
+GIS-based catchment analysis and hydrologic monitoring of BMP infrastructure.
 
-* Built EPA SWMM models of urban drainage networks and analyzed runoff routing and stormwater retention.
-* Deployed hydrologic monitoring systems across stormwater BMPs.
-* Applied GIS and AutoCAD to characterize urban catchments and drainage infrastructure.
+---
 
-### Urban Flood Hydrology Modeling Intern
-
+### Urban Flood Hydrology Modeling Intern — Kyoto University  
 *May 2026 – Jun 2026*
 
-Kyoto University — Disaster Prevention Research Institute
+Machine learning-based flood susceptibility modeling using Python and Google Earth Engine.  
+Comparative watershed analysis across Uzbekistan, Japan, and the United States.
 
-* Developed machine-learning flood susceptibility models using Python and Google Earth Engine.
-* Compared watershed characteristics across Uzbekistan, Japan, and the United States.
-* Evaluated urban flood mitigation strategies under extreme rainfall conditions.
+---
 
-### Environmental Fluid Dynamics Research Intern
-
+### Environmental Fluid Dynamics Research Intern — Max Planck Institute  
 *May 2025 – Jul 2025*
 
-Max Planck Institute for Dynamics and Self-Organization
-
-* Assisted development of Lagrangian Particle Tracking systems.
-* Conducted atmospheric turbulence field experiments.
-* Processed atmospheric flow trajectory data for environmental fluid dynamics research.
+Lagrangian particle tracking and experimental study of atmospheric turbulence.  
+Flow trajectory analysis for environmental fluid dynamics research.
 
 ---
 
 ## Technical Skills
 
-### Hydraulic & Environmental Modeling
+Hydraulic modeling: SWMM, HEC-RAS, HEC-HMS  
+Geospatial analysis: Python, QGIS, ArcGIS, Google Earth Engine  
+Engineering tools: AutoCAD, Git  
 
-EPA SWMM · HEC-RAS · HEC-HMS
-
-### Programming & Geospatial Analysis
-
-Python · QGIS · ArcGIS Pro · Google Earth Engine · AutoCAD · Git
-
-### Languages
-
-English · Japanese · German · Russian · Uzbek · Tajik
+Languages: English, Japanese, German, Russian, Uzbek, Tajik
