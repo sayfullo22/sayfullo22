@@ -19,11 +19,11 @@ I am interested in the engineering of rivers, floods, and water infrastructure, 
 **Princeton University — B.S.E. Civil and Environmental Engineering**  
 *2024 - 2028*
 
-**Technical University of Munich — Chair of Agricultural Systems Engineering**  
-*Summer 2026*
+**Technical University of Munich**  
+Research exchange, Summer 2026
 
-**University of Auckland — BE Civil and Environmental Engineering**  
-*Incoming Spring 2027*
+**University of Auckland**  
+Incoming exchange, Spring 2027
 
 ---
 
